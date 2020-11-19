@@ -1,0 +1,6 @@
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb

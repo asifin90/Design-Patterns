@@ -1,0 +1,6 @@
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\TemplatePattern\bin\Debug\TemplatePattern.exe
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\TemplatePattern\bin\Debug\TemplatePattern.pdb
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\TemplatePattern\obj\Debug\TemplatePattern.csprojAssemblyReference.cache
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\TemplatePattern\obj\Debug\TemplatePattern.exe
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\TemplatePattern\obj\Debug\TemplatePattern.pdb

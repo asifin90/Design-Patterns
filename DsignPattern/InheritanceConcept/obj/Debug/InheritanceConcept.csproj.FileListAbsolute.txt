@@ -1,0 +1,6 @@
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\InheritanceConcept\bin\Debug\InheritanceConcept.exe.config
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\InheritanceConcept\bin\Debug\InheritanceConcept.exe
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\InheritanceConcept\bin\Debug\InheritanceConcept.pdb
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\InheritanceConcept\obj\Debug\InheritanceConcept.csprojAssemblyReference.cache
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\InheritanceConcept\obj\Debug\InheritanceConcept.exe
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\InheritanceConcept\obj\Debug\InheritanceConcept.pdb

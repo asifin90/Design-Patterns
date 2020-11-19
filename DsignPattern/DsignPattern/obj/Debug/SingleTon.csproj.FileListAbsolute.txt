@@ -1,0 +1,12 @@
+C:\Users\Asif\source\repos\DsignPattern\DsignPattern\bin\Debug\DsignPattern.exe.config
+C:\Users\Asif\source\repos\DsignPattern\DsignPattern\bin\Debug\DsignPattern.exe
+C:\Users\Asif\source\repos\DsignPattern\DsignPattern\bin\Debug\DsignPattern.pdb
+C:\Users\Asif\source\repos\DsignPattern\DsignPattern\obj\Debug\SingleTon.csprojAssemblyReference.cache
+C:\Users\Asif\source\repos\DsignPattern\DsignPattern\obj\Debug\DsignPattern.exe
+C:\Users\Asif\source\repos\DsignPattern\DsignPattern\obj\Debug\DsignPattern.pdb
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\DsignPattern\bin\Debug\DsignPattern.exe.config
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\DsignPattern\bin\Debug\DsignPattern.exe
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\DsignPattern\bin\Debug\DsignPattern.pdb
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\DsignPattern\obj\Debug\SingleTon.csprojAssemblyReference.cache
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\DsignPattern\obj\Debug\DsignPattern.exe
+C:\Users\Asif\source\repos\GIT%20Code%20Repository\DsignPattern\DsignPattern\obj\Debug\DsignPattern.pdb
