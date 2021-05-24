@@ -8,4 +8,6 @@ Below Design pattern covered in this repository.
 
 2. Template Pattern
 
+3. Unit Of work pattern in Asp.Net Core 5 
+
 
